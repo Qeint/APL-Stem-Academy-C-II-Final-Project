@@ -1,0 +1,37 @@
+What topic should I choose?
+For this year I'll be doing Terrorism for another game idea.
+
+Game Name: Bataille de bombes
+You need to defuse bombs but they have different modules that you need to solve before their completed
+I will use a class for the majority of this program that will store the modules and "issues"
+The modules will have questions that I had in my Java Fundmentals class 
+These will range from easy questions like count all spaces to count all letters in under 12 seconds.
+
+If you win another random module gets added until you die or reach level 6. (Add endless mode?)
+
+You can't pick which module you want to do first
+
+| Example: Working on a module |
+Modules left: 2 (Including this one)
+Current Module working on: Counting
+
+I fly on the marrow as quick as a sparrow. As I wright on the court I find it very pleasing.
+
+Task: Count all spaces
+
+| Example: Game introduction |
+Agent...There's been a problem
+Terrorists have infiltrated HQ and have placed multiple Explosive Devices
+You're our only hope
+
+Press Enter to continue...
+
+
+
+
+
+
+
+
+
+
